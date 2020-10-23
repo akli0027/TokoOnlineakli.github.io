@@ -1,0 +1,12 @@
+
+#runningtext{
+	width 				: 100%;
+	height				: 25px;
+	text-align			: center;
+	/*membuat border cekukan*/
+	border-radius       : 5px 5px 5px 5px;
+	margin				: 5px 0 5px 0;
+	background      	: #778899;
+	color				: white;
+	position			: absolute;
+}
